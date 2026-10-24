@@ -1,0 +1,10 @@
+__pycache__/
+*.mesh
+*.png
+*.glb
+*.fbx
+*.obj
+*.mtl
+*.rbxm
+*.rbxmx
+out/

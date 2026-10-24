@@ -1,0 +1,6 @@
+numpy
+Pillow
+scipy
+lz4
+DracoPy
+requests
